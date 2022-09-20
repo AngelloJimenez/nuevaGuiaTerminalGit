@@ -4,4 +4,4 @@ git init: crea un repositorio
 
 parrafo nuevo
 
-raro
+raro...
