@@ -1,7 +1,18 @@
 git status: permite conocer en que area estan los cambios realizados
-
 git init: crea un repositorio
+git add:
+	atajos:
+	.: agrega todos los archivos con un cambio en el proyecto
 
-parrafo nuevo
+git commit agrega los archivos del staging area al repositorio
+	flats:
+	m: agregar un mensaje
+	a: agrega archivos sin pasar por el staging area
+git log: muestra todos los commits realizados
+	flats:
+	--oneline: muestra los commits de manera resumida
+	--graph: muestra el grafico del proyecto
 
-raro...
+
+aslsslkdv
+avlkvflkvf
