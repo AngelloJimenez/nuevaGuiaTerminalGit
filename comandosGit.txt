@@ -1,0 +1,7 @@
+git status: permite conocer en que area estan los cambios realizados
+
+git init: crea un repositorio
+
+parrafo nuevo
+
+raro
